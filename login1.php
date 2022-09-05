@@ -36,9 +36,9 @@ session_start();
         <form  name="form" action="code.php" method="POST">
         <div class="container-fluid">
         <nav>
-        <a  href="index.html"><b>HOME</a>
-        <a href="login1.html"><b>LOGIN</a>
-        <a href="takapp.html"><b>TAKE APPOINTMENT</a>
+               <a  href="index.html"><b>HOME</a>
+        <a href="login1.php"><b>LOGIN</a>
+        <a href="takapp.php"><b>TAKE APPOINTMENT</a>
         <a href="gallery.php"><b>GALLERY</a>
         <a href="aboutus.php"><b>ABOUT US</a>
         <a href="contactus.php"><b> CONTACT US</a>
