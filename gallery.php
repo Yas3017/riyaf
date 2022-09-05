@@ -20,14 +20,13 @@
 
     <div class="container-fluid">
     <nav>
-          <a  href="index.html"><b>HOME</a>
-        <a href="login1.html"><b>LOGIN</a>
-        <a href="takapp.html"><b>TAKE APPOINTMENT</a>
-        <a href="gallery.html"><b>GALLERY</a>
-        <a href="aboutus.html"><b>ABOUT US</a>
-        <a href="contactus.html"><b> CONTACT US</a>
-        <a href="admin.html"><b> ADMIN</a>
-         
+                 <a  href="index.html"><b>HOME</a>
+        <a href="login1.php"><b>LOGIN</a>
+        <a href="takapp.php"><b>TAKE APPOINTMENT</a>
+        <a href="gallery.php"><b>GALLERY</a>
+        <a href="aboutus.php"><b>ABOUT US</a>
+        <a href="contactus.php"><b> CONTACT US</a>
+        <a href="admin.php"><b> ADMIN</a>
          
     </nav></div></div> 
     <div>
@@ -35,8 +34,8 @@
     
     <div class="container-fluid">
     <nav>
-        <a href="men.html"><b>Men</b></a>
-        <a href="women.html"><b>Women</b></a>
+        <a href="men.php"><b>Men</b></a>
+        <a href="women.php"><b>Women</b></a>
     </nav></div></div> 
     </h2>
     <div id="sldie-images">  
